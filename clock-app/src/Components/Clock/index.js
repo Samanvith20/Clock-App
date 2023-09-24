@@ -32,7 +32,9 @@ class Clock extends Component {
       <div className="clock-container">
         <h1 className="heading">Clock</h1>
         <p className="time">{date.toLocaleTimeString()}</p>
+        
       </div>
+      //In JavaScript, toLocaleTimeString() is a method used to convert a Date object into a string representing the time portion of the date in a locale-specific format 
     )
   }
 }
