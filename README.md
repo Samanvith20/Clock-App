@@ -2,6 +2,10 @@
 # Real-Time Clock App
 
 A simple real-time clock app built with [HTML/CSS/JAVASCRIPT/REACT] that leverages component lifecycle methods to update the time in real-time.
+## Live Demo
+
+You can see a live demo of the Real-Time Clock App [here](https://sprightly-cuchufli-e7abfa.netlify.app/).
+
 
 ## Table of Contents
 
